@@ -31,3 +31,7 @@ Error handling is critical for gracefully managing and logging issues that arise
 404.js: Handles not found errors when a route is undefined.
 500.js: Manages internal server errors and unexpected conditions.
 These are located under src/middleware.
+
+## UML
+
+[UML](./UML.png)
